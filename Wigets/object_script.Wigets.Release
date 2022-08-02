@@ -1,0 +1,10 @@
+release/autorization.o
+release/calculator.o
+release/main.o
+release/mainwindow.o
+release/notes.o
+release/qrc_resource.o
+release/moc_autorization.o
+release/moc_calculator.o
+release/moc_mainwindow.o
+release/moc_notes.o

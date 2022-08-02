@@ -1,0 +1,10 @@
+debug/autorization.o
+debug/calculator.o
+debug/main.o
+debug/mainwindow.o
+debug/notes.o
+debug/qrc_resource.o
+debug/moc_autorization.o
+debug/moc_calculator.o
+debug/moc_mainwindow.o
+debug/moc_notes.o
